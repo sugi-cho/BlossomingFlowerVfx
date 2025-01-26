@@ -24,6 +24,22 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 023fbe255cb7e164dab38e7c04de9519, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap_2:
+        m_Texture: {fileID: 2800000, guid: 3297cec76e4c7f84c8356c7542b04d0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: a87c86569ea715a409f9bf64641390ce, type: 3}
+        m_Scale: {x: 4, y: 4}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ef2ef27f9b084c57a1dcb350e519c4ba_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: a87c86569ea715a409f9bf64641390ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -42,28 +58,42 @@ Material:
     - _AlphaToMask: 0
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
+    - _Blooming: 0
     - _CastShadows: 1
     - _Cull: 2
     - _DstBlend: 0
+    - _Float: 0
+    - _PivotShift: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _RollFactor: 0
-    - _RollFactor_1: 0
-    - _RollFactor_2: 0
+    - _RollFactor_1: 1.19
+    - _RollFactor_2: 0.96
+    - _SelectMap: 0
     - _SrcBlend: 1
     - _Surface: 0
+    - _T: 0
     - _WorkflowMode: 1
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
     m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _NoiseProp: {r: 1.4, g: 0, b: 0.13, a: 0}
     - _RollAxis: {r: 1, g: 0, b: 0, a: 0}
-    - _RollAxis_1: {r: 0, g: 1, b: 0, a: 0}
-    - _RollAxis_2: {r: 1, g: 0, b: 0, a: 0}
+    - _RollAxis_1: {r: 1, g: 0, b: 0, a: 0}
+    - _RollAxis_2: {r: 0, g: 1, b: 0, a: 0}
+    - _RollAxis_3: {r: 0, g: 1, b: 0, a: 0}
     - _RollCenter: {r: 0, g: 0, b: 0, a: 0}
     - _RollCenter_1: {r: 0, g: 0, b: 0, a: 0}
-    - _RollCenter_2: {r: 0, g: -0.5, b: 0, a: 0}
+    - _RollCenter_2: {r: 0, g: 0.5, b: 0, a: 0}
+    - _RollCenter_3: {r: 0, g: 0.5, b: 0, a: 0}
+    - _RollFactor_1: {r: 0.2, g: 0.1, b: 0.5, a: 0.9}
+    - _RollFactor_2: {r: 0, g: -0.63, b: 0, a: 1}
+    - _RollFactor_3_base: {r: 0, g: 1, b: 0, a: 1}
+    - _RollFactor_3_tip: {r: 0, g: 1, b: 0, a: 1}
+    - _Scale: {r: 1, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &2731595343445201281
