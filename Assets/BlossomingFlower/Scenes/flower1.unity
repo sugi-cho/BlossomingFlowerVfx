@@ -505,10 +505,10 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0
+      - m_Value: 1
         m_Name: Blooming
         m_Overridden: 1
-      - m_Value: 0
+      - m_Value: 1
         m_Name: Glowing
         m_Overridden: 1
       - m_Value: 0
