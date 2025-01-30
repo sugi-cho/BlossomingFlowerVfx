@@ -13514,8 +13514,8 @@
     "m_ObjectId": "c5daacb0a3f1407196d2d9d958e9a617",
     "m_Title": "Adjust Position",
     "m_Position": {
-        "x": -1150.9998779296875,
-        "y": -939.9998779296875
+        "x": -1150.999755859375,
+        "y": -939.9999389648438
     }
 }
 
@@ -15646,7 +15646,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "_BendBothSides",
     "m_StageCapability": 3,
-    "m_Value": false,
+    "m_Value": true,
     "m_DefaultValue": false
 }
 
